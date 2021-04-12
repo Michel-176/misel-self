@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/LitRHap/self-wa
+> git clone https://github.com/Misel/self-wa
 ```
 
 ## Install the dependencies:
