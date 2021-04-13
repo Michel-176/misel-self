@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/misel-self/Misel-176
+> git clone https://github.com/misel-self/Michel-176
 ```
 
 ## Install the dependencies:
